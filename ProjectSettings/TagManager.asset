@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character1
+  - Character2
+  - Character3
+  - Character4
+  - Character5
+  - Character6
+  - Resource
+  - Enemy
+  - Enemy1
+  - Enemy2
+  - Helper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ClickableObjects
+  - Ground
+  - Building
+  - FoodResource
+  - FoodStorage
+  - SteelResource
+  - SteelStorage
+  - Helper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
